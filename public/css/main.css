@@ -1,0 +1,45 @@
+header{
+background-color: yellow;
+height: 20%;
+color: red;
+font-size: 30px;
+text-align: center;
+
+}
+article{
+}
+aside{
+  display:flex;
+  float:right;
+  margin-right: 30px;
+  background-color: pink;
+  height:450px;
+  border-radius: 5px;
+  width:150px;
+  margin-top: 20px;
+  vertical-align: middle;
+
+}
+footer{
+  margin-bottom: 5px;
+  text-align: center;
+  clear: right
+}
+p{
+  text-align: center;
+}
+button{
+  height: 30px;
+  width: 70px;
+  background-color: lightgreen;
+  color: white;
+  border-radius: 5px
+}
+a{
+  border: none;
+  text-decoration: none;
+}
+a :active{
+  text-decoration: none;
+  border:none
+}
